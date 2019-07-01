@@ -1,7 +1,5 @@
 # em_interop_pgp
-PGP based encryption of data between fishing vessel and fisheries regulator
-
-Example of GPG for Open PGP Encryption between DVR and Fisheries Regulator
+Open PGP Encryption between DVR and Fisheries Regulator
 
 Scripts for Linux. Commands will also run under GPG for Windows or Mac.
 
