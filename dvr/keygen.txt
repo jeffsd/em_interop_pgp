@@ -1,0 +1,12 @@
+%echo Generating TEST Open PGP key For DVR
+Key-Type: RSA
+Key-Length: 2048
+Key-Usage: encrypt sign
+Name-Real: DVR Identifier (TEST ONLY)
+Name-Comment: Vendor Name (TEST ONLY)
+Name-Email: dvr_uuid@dvr.vendor.com
+Expire-Date: 0
+Preferences: AES256 SHA512 Uncompressed
+Passphrase: abc
+%commit
+%echo done
