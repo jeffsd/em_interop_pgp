@@ -9,7 +9,9 @@ After installing GPG (https://gnupg.org/download/):
 2) Run the commands (or the script):  regulator/keygen.sh
 
 This will create sample secret/public key pair for a DVR and the fisheries
-regulator. The public key for each is exported during the process in ASCII
+regulator. 
+
+The public key for each is exported during the process in ASCII
 armor (as the regulator would provide to vendors and as each
 vendor would provide for each and every DVR commissioned.)
 
